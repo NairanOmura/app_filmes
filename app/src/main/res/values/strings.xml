@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="digite_aqui_titulo">Title</string>
+    <string name="digite_aqui_url">Image URL</string>
+    <string name="digite_aqui_genero">Genre</string>
+    <string name="digite_aqui_avaliacao">Rating</string>
+    <string name="digite_aqui_lancamento">Release Year</string>
+    <string name="imagem">Image</string>
+    <string name="xxxxxx">xxxxxx</string>
+    <string name="year">Year</string>
+    <string name="title_p">title_p</string>
+    <string name="rating_p">rating_p</string>
+    <string name="rating">Rating</string>
+    <string name="genre">Genre</string>
+    <string name="genre_p">genre_p</string>
+    <string name="year_p">year_p</string>
+    <string name="title">Title</string>
+    <string name="title_activity_lista">Lista</string>
+    <string name="insertbutton">insertButton</string>
+    <string name="removebutton">removeButton</string>
+    <string name="details">Details</string>
+    <string name="search">Search</string>
+</resources>
